@@ -1,4 +1,4 @@
-Name:Aditya kumar Company:CODETECH IT SOLUTION ID:CT04DF2936 Domain:C LANGUAGE Duration:11 JUNE 2025 TO 11 JULY 2025 Mentor:NEELA SANTHOSH KUMAR Internship Report: Linked List Implementation in C Language Introduction During my internship, I worked on implementing Linked Lists in C language, which is a fundamental data structure used for efficient memory management and dynamic data handling in programming. This helped me understand pointers, dynamic memory allocation, and node-based data structures practically.
+Name:Vaibhav puneet Company:CODETECH IT SOLUTION ID:CT04DF2936 Domain:C LANGUAGE Duration:11 JUNE 2025 TO 11 JULY 2025 Mentor:NEELA SANTHOSH KUMAR Internship Report: Linked List Implementation in C Language Introduction During my internship, I worked on implementing Linked Lists in C language, which is a fundamental data structure used for efficient memory management and dynamic data handling in programming. This helped me understand pointers, dynamic memory allocation, and node-based data structures practically.
 
 Objective To implement a Singly Linked List in C language.
 
